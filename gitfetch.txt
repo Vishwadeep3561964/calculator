@@ -1,2 +1,5 @@
 just laeraning git fetch 
 nothing else
+
+
+i made some changes from vs code
